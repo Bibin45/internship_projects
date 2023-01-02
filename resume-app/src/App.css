@@ -1,0 +1,29 @@
+
+
+.width{
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.font{
+  font-weight:bold !important;
+  font-family: 'Times New Roman', Times, serif;
+}
+.align{
+  text-align: left !important;
+}
+.align1{
+  text-align: right !important;
+}
+.marl{
+  margin-left: 100px !important;
+}
+.marl1{
+  margin-left: 10% !important;
+}
+.marl2{
+  margin-left: 15% !important;
+}
+.bg{
+  background-color: lightgray !important;
+}

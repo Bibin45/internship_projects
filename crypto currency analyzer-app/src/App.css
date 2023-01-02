@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600;1,700;1,800;1,900&display=swap');
+.font{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder !important; 
+}
+.size{
+    width:100px !important;
+    height:40px !important;
+}
+a{
+    color: goldenrod !important;
+}
+.bg_img{
+    background-image:url('https://github.com/piyush-eon/react-crypto-tracker/blob/master/public/banner2.jpg?raw=true') ;
+}
+.banner{
+    height: 300px !important;
+    padding-top: 25px !important;
+    justify-content: space-around;
+}
+*{
+    text-decoration: none !important;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.span{
+    color: white;
+}
+.tagline{
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: 'Montserrat';
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+.tagtext{
+    color: darkgray;
+    text-transform: capitalize;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+.cap{
+    text-transform: uppercase;
+}
+.carousal{
+    display: flex;
+    justify-content:center;
+    height: 50%;
+    margin-bottom: 10px;
+}
+.text{
+    text-align: center;
+    text-transform: uppercase;
+}
+.type{
+    margin: 18px;
+    font-family: 'Montserrat';
+}
+.marb{
+    margin-bottom: 20px;
+}
+.marl{
+    margin-left: 20px;
+}
+.bgcolor{
+    background-color: goldenrod !important;
+}
+tr {
+    line-height: 25px;
+    min-height: 25px;
+    height: 25px;
+ }
+ .valign{
+    vertical-align:middle;
+ }
+ .hover:hover{
+    background-color: #131111;
+ }
+ .dark{
+    background-color: #16171a;
+ }
+ .description{
+        width:'100%';
+        padding:25px;
+        padding-bottom:15px;
+        padding-top:0;
+        text-align: justify;
+        font-family: 'Montserrat';
+        color: gray;
+        font-variant: small-caps;
+      
+ }
+ .height{
+    height: 800px;
+ }
+ .sidebar{
+    width:'30%';
+    display:'flex';
+    flex-direction:'column';
+    align-items:'center';
+    margin-top:25px;
+    border-right: gray solid 2px;
+  }
+
+.bg-gold{
+    background-color: goldenrod !important;
+    
+}
+.bg-red{
+    background-color: red !important;
+}
+button:hover{
+    color:white!important;
+}
+.fg-dark{
+    background-color: #16171a !important;
+}
+.select{
+    border: "1px solid gold";
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Montserrat";
+    cursor: "pointer";
+    background-color: "gold" ;
+    color:"black" ;
+    font-weight:500;
+    width: "22%";
+}
